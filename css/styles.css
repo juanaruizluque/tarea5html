@@ -1,5 +1,6 @@
 body {
     background-color: #F4DFBA;
+
       }
    
       hr{
@@ -10,6 +11,8 @@ body {
       }
     
       h3{
+        font-size: 34px;
+
         color:#876445;
         text-shadow: 2px 2px 5px #FFD39A ;
       }
@@ -21,6 +24,8 @@ body {
         width: 250px; height: 278px;
      }
       h1{
+        font-size: 40px;
+
         color:#876445;
          text-shadow: 2px 2px 5px #FFD39A ;
       }
@@ -31,11 +36,19 @@ body {
       .instagram-media{
         width: 250px; height: 600px;
       }
-    
+    .imagen{
+      width: 450px; height: 450px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
     form{
       background-color: #F4DFBA;
-    
-    
-    
     }
+    p{
+      font-size: 23px;
+  }
+  li{
+    font-size: 25px;
+  }
     
